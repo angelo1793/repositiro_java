@@ -18,6 +18,8 @@ public class Proyecto_HolaMundo {
         // TODO code application logic here
         System.out.println("Hola mundo cruel \n");
         System.out.println("Yo soy JC que pasas genteeeeeeeeee \n");
+        System.out.println("Hola yo soy jhonatan papus \n");
+
     }
     
 }
