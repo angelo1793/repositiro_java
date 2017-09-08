@@ -17,6 +17,7 @@ public class Proyecto_HolaMundo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundo cruel \n");
+        System.out.println("Hola yo soy jhonatan papus \n");
     }
     
 }
